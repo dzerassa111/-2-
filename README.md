@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/dzerassa111/-2-.git
-cd <папка>
+cd ~/Desktop
 pip install -r requirements.txt 
 ```
 
